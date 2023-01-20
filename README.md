@@ -2,7 +2,7 @@
 
 #### Status: in progress
 
-## Descriptionss
+## Descriptions
    
 Welcome to the project on galaxy clustering! From the tutorials you will learn the following:
 
