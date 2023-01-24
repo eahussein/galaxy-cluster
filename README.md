@@ -72,3 +72,8 @@ git pull
 ### Original research work:
 
 E. Fielding, C. N. Nyirenda and M. Vaccari, "The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques," 2022 International Conference on Electrical, Computer and Energy Technologies (ICECET), 2022, pp. 1-6, doi: [10.1109/ICECET55527.2022.9872611](https://doi.org/10.1109/ICECET55527.2022.9872611).
+
+### Data used
+
+Walmsley, Mike, et al. "Galaxy Zoo DECaLS: Detailed visual morphology measurements from volunteers and deep learning for 314 000 galaxies." Monthly Notices of the Royal Astronomical Society 509.3 (2022): 3966-3988, doi:[10.48550/arXiv.2102.08414](https://doi.org/10.48550/arXiv.2102.08414), [code](https://doi.org/10.5281/zenodo.6483176
+).
